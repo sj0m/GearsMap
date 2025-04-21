@@ -1,6 +1,6 @@
 # GearsMap
 
-**GearsMap** is a lightweight terminal-based system monitoring tool for Linux systems, built with Python. It provides real-time insights into CPU usage, RAM consumption, and network activity in a clean and minimal interface.
+**GearsMap** is a lightweight, terminal-based system monitoring tool for **Linux**, built with **Python**. It provides real-time insights into **CPU usage**, **RAM consumption**, and **network activity** — all within a clean and minimal interface.
 
 ---
 
@@ -16,52 +16,37 @@
   Monitors upload and download speeds for active interfaces.
 
 - **Terminal UI**  
-  Simple and clear interface that works directly in the terminal.
+  Simple, responsive interface that works directly in your terminal.
 
 ---
 
-## Screenshot
+## Requirements
 
-*(You can add a screenshot here in the future)*
+- Python 3.x  
+- Linux OS
+
+### Python Modules:
+
+- `psutil`  
+- `time`  
+- `os`  
+- `platform`
+
+Install dependencies using:
 
 ```bash
-[ CPU: 23% ] [ RAM: 2.4GB / 8GB ] [ Net: ↑ 10KB/s ↓ 52KB/s ]
-
-
----
-
-Requirements
-
-Python 3.x
-
-Linux OS
-
-Modules:
-
-psutil
-
-time
-
-os
-
-platform
-
-
-
-Install required modules using pip:
-
 pip install psutil
 
 
 ---
 
-How to Run
+Installation & Usage
 
-Simply run the script using:
+Run the script directly:
 
 python3 gearsmap.py
 
-You may need to give it executable permissions:
+If needed, give it executable permission:
 
 chmod +x gearsmap.py
 
@@ -70,11 +55,11 @@ chmod +x gearsmap.py
 
 Use Cases
 
-Monitor system load on older devices
+Monitor system load on older or low-resource devices
 
 Lightweight alternative to tools like htop
 
-Integrate with custom Linux terminals or minimal setups
+Integration with minimal or custom Linux terminals
 
 
 
@@ -82,35 +67,46 @@ Integrate with custom Linux terminals or minimal setups
 
 License
 
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is released under a custom license (see LICENSE file). Summary of key terms:
 
+Do not modify the original code
 
----
+Additions/extensions allowed, but must credit the original author
 
-Copyright
+No commercial use allowed except by the author
 
-© 2025 Sajjad Moh. All rights reserved.
-This software is distributed under the MIT License. You are free to use, modify, and distribute it, provided you include proper attribution.
+Do not claim ownership of the project or any part of it
+
+Proper credit must always be given to Sajad
+
+The author is not liable for any harmful or unethical usage
+
 
 
 ---
 
 Disclaimer
 
-This software is provided "as is", without warranty of any kind, express or implied. The author is not liable for any damages or losses resulting from the use or misuse of this tool.
-Use at your own risk.
+This software is provided "as is", without any warranties, express or implied.
+Use at your own risk. The author assumes no responsibility for misuse, data loss, or damages.
 
 
 ---
 
 Contributions
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome!
+For major changes, please open an issue first to discuss proposed ideas.
 
 
 ---
 
 Author
 
-Sajjad Moh.
-Built with passion for Linux users who love terminal tools.
+Sajad Moh.
+Built with passion for Linux users who love efficient terminal tools.
+
+
+---
+
+---
