@@ -1,21 +1,24 @@
-MIT License
+Custom MIT-Based License
 
 Copyright (c) 2025 Sajjad Moh.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the “Software”), to use,
+copy, and share the Software for non-commercial purposes, provided that the
+following conditions are met:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **No Modification**: The original source code must not be modified in any way. Extensions or enhancements are allowed only if they do not alter the original codebase.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. **Attribution Required**: Any use, promotion, or publication of this Software or its derivatives must clearly acknowledge the original author, **Sajjad Moh**, and include a link to the original source/project.
+
+3. **No Commercial Use**: This Software may not be used, sold, or redistributed for commercial purposes, in whole or in part, by anyone other than the original author.
+
+4. **No Rebranding**: No one may claim ownership or authorship of this Software or any modified or extended version. The name and authorship must always remain with the original author, **Sajjad Moh**.
+
+5. **Liability Disclaimer**: The Software is provided “as is”, without warranty of any kind, express or implied. The author assumes no responsibility for any misuse, illegal activity, or damage caused by the use of this Software.
+
+6. **License Inclusion**: This license notice must be included in all copies, forks, or distributions of the Software or any derived works.
+
+---
+
+This custom license is based on the MIT License, with additional terms to protect the author's rights and intent.
