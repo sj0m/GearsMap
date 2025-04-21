@@ -1,5 +1,5 @@
 # GearsMap
-GearsMap is python script tool to know your CPU ,RAM , Network usage. By Sajjad Mohammed and assistant with AI
+GearsMap is python script tool to know your CPU ,RAM , Network usage. By Sajjad Mohammed
 # About It
 
 **GearsMap** is a simple Python script designed for Linux systems. It displays real-time system statistics including:
